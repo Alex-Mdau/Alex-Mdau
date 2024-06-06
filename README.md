@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here you'll find a mix of GIS projects, cartograph
 📫 Let's Connect:
 
     LinkedIn: https://www.linkedin.com/in/alex-okumu-ab92a2177/
-    Twitter: https://twitter.com/Mdau001
+    Twitter: https://twitter.com/Okumu_01
     Email: alexokumu006@gmail.com
 
 🤝 Looking to Collaborate:
