@@ -39,6 +39,6 @@ Welcome to my GitHub profile! Here you'll find a mix of GIS projects, cartograph
 
 🌐 Check Out My Website:
 
-    Personal Portfolio: alexokumugis.netlify.app
+    Personal Portfolio: sites.google.com/view/okumugis
 
 Thanks for stopping by! Feel free to explore my projects, reach out for collaborations, or connect with me on LinkedIn or Twitter. Let's create something amazing together! 🌍🗺️🚀
